@@ -6,7 +6,7 @@ const Sobre = () => {
       </div>
       <section className="container flex flex--center">
         <article className="card">
-          El blog de PetShop fue creado para ayudarte con las preguntas más comunes sobre tu mascota.
+          El blog de PetShop fue creado para ayudarte con las preguntas más comunes sobre tu mascota y poder mejorar su cuidado.
         </article>
       </section>
     </main>
